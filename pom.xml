@@ -8,7 +8,7 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.javabrains</groupId>
+	<groupId>io.demoproj</groupId>
 	<artifactId>course-api-data</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>couse-api-data</name>
